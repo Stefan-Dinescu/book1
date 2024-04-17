@@ -1,4 +1,4 @@
 # Introduction
 
-This is a book about imaging in rheumatology [@bansal2006, @knuth84]. 
+This is a book about imaging in rheumatology [@bansal2006;@knuth84]. 
 Examinarea radiografică articulară poate fi utilizată pentru diagnosticarea şi monitorizarea unor multiple afecțiuni reumatice. Permite vizualizarea modificărilor degenerative caracteristice osteoartritei, precum şi a leziunilor structurale dezvoltate în evoluția bolilor inflamatorii articulare cronice, precum artrita reumatoidă sau spondiloartritele axiale.
