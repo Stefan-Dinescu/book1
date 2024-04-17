@@ -1,5 +1,3 @@
 # Introduction
 
-This is a book about imaging in rheumatology.
-
-Examinarea radiografica articulara poate fi utilizata pentru diagnosticarea si monitorizarea unor multiple afectiuni reumatice.
+This is a book about imaging in medicine.
