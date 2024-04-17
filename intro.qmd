@@ -1,7 +1,5 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+This is a book about imaging in rheumatology.
 
-See @knuth84 for additional discussion of literate programming.
-
-Insert code here.
+Examinarea radiografică articulară poate fi utilizată pentru diagnosticarea şi monitorizarea unor multiple afecțiuni reumatice. Permite vizualizarea modificărilor degenerative caracteristice osteoartritei, precum şi a leziunilor structurale dezvoltate în evoluția bolilor inflamatorii articulare cronice, precum artrita reumatoidă sau spondiloartritele axiale.
