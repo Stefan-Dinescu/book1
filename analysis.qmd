@@ -1,10 +1,10 @@
 # Analysis
 
 ```{r, message=FALSE, warning=FALSE}
-if (!require(tidyverse)) {install.packages("tidyverse"); require(tidyverse)}
+install.packages("tidyverse")
+library(tidyverse)
 ```
 
 ```{r}
 head(iris)
 ```
-
