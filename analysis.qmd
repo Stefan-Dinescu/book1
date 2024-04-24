@@ -1,6 +1,6 @@
 # Analysis
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, output=FALSE}
 install.packages("tidyverse")
 library(tidyverse)
 ```
