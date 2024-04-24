@@ -3,5 +3,16 @@
 In summary, this book has no content whatsoever.
 
 ```{r}
-1 + 1
+1 + 3
 ```
+:::: {.columns}
+::: {.column width="50%"}
+
+test|value
+-----|-----:
+test 1|2.05
+test 2|1.37
+test 3|3.09
+
+:::
+::::
