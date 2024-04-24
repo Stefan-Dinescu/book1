@@ -1,6 +1,7 @@
-```{r, message=F, warning=F}
-install.packages("tidyverse")
-library(tidyverse)
+# Analysis
+
+```{r, message=FALSE, warning=FALSE}
+if (!require(tidyverse)) {install.packages("tidyverse"); require(tidyverse)}
 ```
 
 ```{r}
