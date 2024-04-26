@@ -1,10 +1,21 @@
 # Analysis
 
-```{r, include=FALSE, message=FALSE, warning=FALSE, output=FALSE}
+```{r1, include=FALSE, message=FALSE, warning=FALSE, output=FALSE}
 install.packages("tidyverse")
 library(tidyverse)
 ```
-these are the first rows
-```{r, echo=FALSE}
+
+these are the first rows:
+
+```{r2}
+#| echo: true
 head(iris)
 ```
+
+add 2 plus 2
+```{r3}
+#| echo: false
+2+2
+```
+
+2 plus 2 equals '{r} 2+2'
