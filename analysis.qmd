@@ -1,15 +1,15 @@
 # Analysis
 
-```{r1, include=FALSE, message=FALSE, warning=FALSE, output=FALSE}
-install.packages("tidyverse")
-library(tidyverse)
+```{r1}
+#| echo: false
+df=data.frame(letter=c("A","B","C","D"), number=c(1,2,3,4))
 ```
 
 these are the first rows:
 
 ```{r2}
 #| echo: true
-head(iris)
+head(df)
 ```
 
 add 2 plus 2
@@ -17,5 +17,3 @@ add 2 plus 2
 #| echo: false
 2+2
 ```
-
-2 plus 2 equals '{r} 2+2'
