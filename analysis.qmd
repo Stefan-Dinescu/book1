@@ -5,6 +5,6 @@ install.packages("tidyverse")
 library(tidyverse)
 ```
 
-```{r, echo=FALSE}
+```{r, include=FALSE}
 head(iris)
 ```
